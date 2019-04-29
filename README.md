@@ -10,6 +10,8 @@
 * Follow this Notebook installation :<br>
 https://colab.research.google.com/github/xb-trainings/IPAM_2019/blob/master/codes/installation/installation.ipynb
 
+<a href="https://colab.research.google.com/github/xb-trainings/IPAM_2019/blob/master/codes/installation/installation.ipynb" target="_blank">https://colab.research.google.com/github/xb-trainings/IPAM_2019/blob/master/codes/installation/installation.ipynb</a>
+
 * Go to your Google Drive :<br>
 https://www.google.com/drive
 
