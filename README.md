@@ -11,11 +11,11 @@
 https://colab.research.google.com/github/xb-trainings/IPAM_2019/blob/master/codes/installation/installation.ipynb
 
 
-* Go to your Google Drive :<br>
+* Open your Google Drive :<br>
 https://www.google.com/drive
 
-* Open Folder IPAM_2019 on Google Drive and go to IPAM_2019/codes/.<br>
-Select the notebook 'file.ipynb' and Control Click + Open With + Colaboratory
+* Open in Google Drive Folder IPAM_2019 and go to IPAM_2019/codes/.<br>
+Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory
 
 
 
