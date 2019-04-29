@@ -26,4 +26,4 @@ Select the notebook 'file.ipynb' and open with secondary button + Open With + Co
 [Click here]: https://mybinder.org/v2/gh/xb-trainings/IPAM_2019/master
 
 
-<br><br>
+<br><br><br><br>
