@@ -21,7 +21,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
 <br><br>
 
-### Cloud Machine #2 : Binder
+### Cloud Machine #2 : Binder (No GPU)
 
 * Simply [click here]
 
