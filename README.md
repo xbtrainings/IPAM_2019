@@ -27,4 +27,8 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 [Click here]: https://mybinder.org/v2/gh/xb-trainings/IPAM_2019/master
 
 
+
+
+
+
 <br><br><br><br><br><br>
